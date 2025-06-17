@@ -8,14 +8,14 @@ This is a learning project to explore how to build a full-stack web application 
 
 ### Backend:
 - Spring Boot
-- Java 17+ (or your version)
-- Maven / Gradle
+- Java 21
+- Maven
 - REST APIs
 
 ### Frontend:
 - React.js
-- Bootstrap / Tailwind CSS (if used)
-- Axios or Fetch API
+- Bootstrap
+- Axios
 
 ---
 
