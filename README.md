@@ -4,7 +4,7 @@ This is a learning project to explore how to build a full-stack web application 
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 ### Backend:
 - Spring Boot
@@ -19,7 +19,7 @@ This is a learning project to explore how to build a full-stack web application 
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ```bash
 # Run Backend (Spring Boot)
