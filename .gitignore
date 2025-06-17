@@ -1,0 +1,17 @@
+# Ignore build artifacts for Spring Boot
+/backend/target/
+*.class
+*.jar
+
+# Ignore node_modules and build for React
+/frontend/node_modules/
+frontend/build/
+
+# OS & IDE files
+.DS_Store
+*.log
+*.iml
+*.idea/
+*.classpath
+*.project
+*.settings/
