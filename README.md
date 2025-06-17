@@ -2,7 +2,9 @@
 
 This is a learning project to explore how to build a full-stack web application using **Spring Boot** for the backend and **React** for the frontend.
 
-## Technologies Used
+---
+
+## 🚀 Technologies Used
 
 ### Backend:
 - Spring Boot
@@ -15,17 +17,16 @@ This is a learning project to explore how to build a full-stack web application 
 - Bootstrap / Tailwind CSS (if used)
 - Axios or Fetch API
 
+---
 
-## How to Run
+## ⚙️ How to Run
 
-### Backend (Spring Boot):
 ```bash
+# Run Backend (Spring Boot)
 cd backend
 ./mvnw spring-boot:run  # or use your IDE
 
-### Frontend (React):
-cd frontend
+# Run Frontend (React)
+cd ../frontend
 npm install
 npm start
-
-
